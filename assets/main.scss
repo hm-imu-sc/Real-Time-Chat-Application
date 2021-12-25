@@ -1,0 +1,257 @@
+.project {
+    h1 {
+        margin: 20px auto;
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .login_section {
+        width: 550px;
+        margin: 30px auto;
+        padding: 10px;
+        border: 1px solid aqua;
+        border-radius: 3px;
+
+        .alert_section {
+            height: 30px;
+            display: block;
+            text-align: center;
+
+            span {
+                color: red;
+                font-size: 20px;
+                font-weight: bold;
+                vertical-align: middle;
+
+                i {
+                    color: red;
+                }
+            }
+
+            .alert_close {
+                cursor: pointer;
+                i {
+                    &:hover {
+                        text-shadow: 0px 0px 15px red;
+                    }   
+
+                    &:active {
+                        font-size: 23px;
+                    }
+                }
+            }
+        }
+
+        .id, .passcode {
+            // border: 1px solid red;
+            width: 530px;
+            margin: 10px 10px;
+            
+            label {
+                display: block;
+                font-size: 23px;
+                margin-left: 10px;
+                margin-bottom: 5px;
+            }
+
+            input {
+                width: 100%;
+                height: 30px;
+                border: 1px solid rgb(14, 58, 58);
+                border-radius: 2px;
+                padding-left: 5px;
+                font-size: 22px;
+
+                &:focus {
+                    outline: none;
+                    border: 1px solid aqua;
+                }   
+
+                &:hover {
+                    border: 1px solid aqua;
+                    box-shadow: 0 0 10px 0px aqua;
+                }
+            }
+        }
+        
+        button {
+            width: 537px;
+            height: 30px;
+            margin: 10px 10px;
+
+            border: 1px solid rgb(14, 58, 58);
+            border-radius: 4px;
+
+            text-align: center;
+            font-size: 23px;
+
+            &:hover {
+                border: 1px solid aqua;
+                box-shadow: 0 0 10px 0px aqua;
+            }
+
+            &:active {
+                font-size: 21px;
+            }
+        }
+    }
+
+    .chat_section {
+        
+        .chat_heading {
+            width: 600px;
+            margin: 0 auto;
+            text-align: center;
+
+            button {
+                border: 2px solid aqua;
+                border-radius: 5px;
+                width: 200px;
+                font-size: 20px;
+                height: 30px;
+                text-align: center;
+
+                &:hover {
+                    box-shadow: 0 0 10px 1px cyan;
+                    font-weight: bold;
+                }
+
+                &:active {
+                    font-size: 19px;
+                }
+            }
+        }
+
+        .chat_box {
+
+            border: 2px solid aqua;
+            border-radius: 4px;
+
+            width: 1000px;
+            max-height: 570px;
+            min-height: 200px;
+            
+            margin: 10px auto;
+            overflow: auto;
+
+            div {
+
+                margin: 5px 0px;
+                max-width: 500px;
+
+                display: flex;
+                flex-direction: row;
+
+                .me_name, .other_name {
+                    font-weight: bold;
+                }
+
+                .me_name {
+                    color: lime;
+                }
+
+                .other_name {
+                    color: dodgerblue;
+                }
+                
+                .colon {
+                    color: yellow;
+                }
+
+                .text_me, .text_other {
+                    border: 1px solid rgb(5, 41, 41);
+                    border-radius: 10px;
+                    background-color: rgba(127, 255, 212, 0.123);
+                    padding: 5px;
+                    font-size: 23px;
+                }
+
+                .text_me {
+                    margin-right: 5px;
+
+                    background-color: rgba(0, 255, 0, 0.301);
+                    color: skyblue;
+                }
+                
+                .text_other {
+                    margin-left: 5px;
+                    background-color: rgba(127, 255, 212, 0.123);
+                }
+            }
+
+            .me {
+                margin-right: 0;
+                margin-left: auto; 
+                justify-content: right;
+
+                .me_name, .colon {
+                    display: none;
+                }
+            }
+
+            .other {
+                .other_name, .colon {
+                    display: none;
+                    // vertical-align: middle;
+                }
+            }
+        }
+
+        .chat_input {
+
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+
+            border: 2px solid aqua;
+            border-radius: 4px;
+
+            width: 800px;
+            height: 30px;
+
+            margin: 10px auto;
+
+            input {
+                border: none;
+                border-right: 1px solid aqua;
+
+                width: 80%;
+
+                margin-right: 0;
+                padding-left: 5px;
+                font-size: 20px;
+
+                &:focus {
+                    outline: none;
+                }
+            }
+
+            button {
+                cursor: pointer;
+                border-radius: 5px;
+                margin: 3px;
+                width: 20%;
+                border: none;
+                background-color: rgba(98, 184, 184, 0.199);
+                text-align: center;
+                font-size: 20px;
+                
+                i {
+                    font-size: 20px;
+                    background-color: transparent;
+                    font-size: 16px;
+                }
+
+                &:hover {
+                    background-color: rgba(98, 184, 184, 0.616);
+                }
+
+                // &:active {
+                //     border-radius: 5px;
+                //     font-weight: bold;
+                // }
+            }
+        }        
+    }
+}

@@ -1,0 +1,178 @@
+[
+    {
+       "name":"Imu ",
+       "text":"dhuksos ?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"dhukhchi"
+    },
+    {
+       "name":"Imu ",
+       "text":"eita banailam"
+    },
+    {
+       "name":"Imu ",
+       "text":"chat"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"valoi tO ki diya banaichOs"
+    },
+    {
+       "name":"Imu ",
+       "text":"php"
+    },
+    {
+       "name":"Imu ",
+       "text":"kamon hoiche ?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"valO hoiche"
+    },
+    {
+       "name":"Imu ",
+       "text":"ekshathe oneke chat kora jabe"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"IP diya hosting korchOs "
+    },
+    {
+       "name":"Imu ",
+       "text":"ho"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"bikale card khelbi"
+    },
+    {
+       "name":"Imu ",
+       "text":"keu nai "
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"baki file gulay dhuke na"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":""
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":""
+    },
+    {
+       "name":"Imu ",
+       "text":"?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"ber hbi?"
+    },
+    {
+       "name":"Imu ",
+       "text":"brishti hoiche"
+    },
+    {
+       "name":"Imu ",
+       "text":"rasta vija"
+    },
+    {
+       "name":"Imu ",
+       "text":"shondhar por ber howa jay"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"ki diya banaichOs.."
+    },
+    {
+       "name":"Imu ",
+       "text":"PHP + AJAX"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"AJAX ki language"
+    },
+    {
+       "name":"Imu ",
+       "text":"na"
+    },
+    {
+       "name":"Imu ",
+       "text":"javascript er akta technology"
+    },
+    {
+       "name":"Imu ",
+       "text":"class chole tor ?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"hoitO madam er meeting ache"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"heck hoyar sombovna ache"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"hack"
+    },
+    {
+       "name":"Imu ",
+       "text":"mane ?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"spy korte parbO amader ei chat gula"
+    },
+    {
+       "name":"Imu ",
+       "text":"ki deikkha mone hoilo ?"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"ask kortachi "
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"amar idea nai tai"
+    },
+    {
+       "name":"Imu ",
+       "text":"link ta na paile toh korte parbe na"
+    },
+    {
+       "name":"Imu ",
+       "text":"tore jemon link disi deikkha tui dhukte parsos"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"taile tO valO"
+    },
+    {
+       "name":"Imu",
+       "text":"eita toh kono public server e host kora nai"
+    },
+    {
+       "name":"Imu",
+       "text":"amar private server e host kora"
+    },
+    {
+       "name":"Imu",
+       "text":"so, safe"
+    },
+    {
+       "name":"Muhammad Jamilur Rashid ",
+       "text":"bakale kaj na thake berho"
+    },
+    {
+       "name":"Imu",
+       "text":"achcha"
+    },
+    {
+       "name":"Imu",
+       "text":"asorer por ber hobo"
+    }
+ ]
